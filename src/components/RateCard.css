@@ -1,0 +1,20 @@
+.RateCard{
+    background: rgb(159,251,124);
+    background: linear-gradient(180deg, rgb(206, 249, 190) 30%, rgb(139, 203, 118) 75%);
+    font-family: 'g Gusta Regular';
+    text-align: center;
+    margin: 1rem 1rem;
+    padding: 1rem 2rem; 
+    max-width: 8rem;
+    min-width: 8rem;
+    border-radius: 16px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.Currency, .Rate{
+    font-size: 2rem;
+    color: #250143;
+    margin: 1rem;
+}
+hr{
+    border: .15rem solid  #250143;
+}

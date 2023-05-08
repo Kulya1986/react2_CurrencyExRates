@@ -1,0 +1,24 @@
+#Label-base-curr{
+    height: 38px;
+    font-family: 'g Gusta Regular';
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    margin-right: 1rem;
+    vertical-align: middle;
+}
+.Base-currency-selector{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+    margin: 1rem auto;
+    border: 2px solid #250143;
+    border-radius: 5px;
+    max-width: 28rem;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+
